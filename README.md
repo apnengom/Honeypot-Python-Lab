@@ -4,6 +4,7 @@ Honeypot modular en Python (POO) para detección de intrusos y análisis de firm
 CAMBIA ESTA IP por la de tu Laptop en el Hotspot/Red local NO necesita ser de la misma marca de laptop DELL
 
 * Ejemplo dentro de cliente.py
+
 ip_servidor = "192.168.100.8" # <-- Sustituye por tu IPv4 actual
 
 dentro del archivo cliente.py cambias la ip por la que tienes comprobandola actual con cmd usando el comando ipconfig ubicas solo la IPv4 cambiala por tu ip en el archivo cliente.py
