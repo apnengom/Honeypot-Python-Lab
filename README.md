@@ -5,7 +5,7 @@ Cambia la ip local IPv4 NO necesita ser de la misma marca de laptop DELL
 
 * Ejemplo dentro de cliente.py
 
-ip_servidor = "192.168.100.8" # <-- Sustituye por tu IPv4 actual
+ip_dell = "192.168.100.8" # <-- Sustituye por tu IPv4 actual
 
 dentro del archivo cliente.py cambias la ip por la que tienes comprobandola actual con cmd usando el comando ipconfig ubicas solo la IPv4 cambiala por tu ip en el archivo cliente.py
 # 🛡️ Python Honeypot & Intrusion Detection System (POO)
