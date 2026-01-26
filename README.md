@@ -1,7 +1,7 @@
 # Honeypot-Python-Lab
 Honeypot modular en Python (POO) para detección de intrusos y análisis de firmas de ataque
 # ⚙️ Configuracion del Honeypot
-CAMBIA ESTA IP POR LA ACTUAL NO necesita ser de la misma marca de laptop DELL
+Cambia la ip local IPv4 NO necesita ser de la misma marca de laptop DELL
 
 * Ejemplo dentro de cliente.py
 
