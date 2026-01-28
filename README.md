@@ -19,3 +19,7 @@ El sistema utiliza comparaciones de patrones para detectar:
 - `OR 1=1` -> SQL Injection
 - `<SCRIPT>` -> Cross-Site Scripting
 - `../` -> Path Traversalnfiguracion
+
+# 🚦 Manejo de hilos (threading)
+- **Pensado en la eficiencia** y evitar perdida de datos en registro de conexiones
+- **Optimizado para dispositivos de poca capacidad**
